@@ -157,7 +157,7 @@ button:hover {
 }
 
 .btn-cyan {
-	background-color: #1beee5;
+	background-color: orange;
 	-webkit-box-shadow: 0 3px 7px 0 rgba(39, 201, 220, .2);
 	-moz-box-shadow: 0 3px 7px 0 rgba(39, 201, 220, .2);
 	box-shadow: 0 3px 7px 0 rgba(39, 201, 220, .2);
